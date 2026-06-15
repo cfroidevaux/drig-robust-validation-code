@@ -181,7 +181,7 @@ def setting_mixed_second_moment_p2() -> MixedSetting:
     """Mixed mean and covariance heterogeneity for Gaussian moment intervals.
 
     This setting is not used for TV-RV over the full second-moment set.  The TV
-    worst case over that set is maximal by Proposition 3.3.  Instead, the code
+    worst case over that set is maximal by Proposition 3.6.  Instead, the code
     evaluates Gaussian second-moment intervals.  To make gamma-comparisons
     meaningful, it reports both the interval for the gamma-dependent DRIG set
     and an interval for a fixed target set S_target=S_0+eta*Delta_S.
