@@ -51,7 +51,7 @@ The default run uses `gamma_step=0.01`, `tv_grid_n=1400`, and `opt_grid_n=151`, 
 ## Main files
 
 | Thesis quantity / step | Code location |
-| --- | --- |
+|---|---|
 | fixed-reference coefficient path | `src/scm_core.py`, `solve_b_gamma` |
 | residual laws under the fixed-B SCM | `src/scm_core.py`, `observed_residual_laws` |
 | folded-normal score distributions | `src/score_tools.py` |
