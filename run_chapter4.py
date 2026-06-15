@@ -144,7 +144,7 @@ def _write_summary(setting, summary_df: pd.DataFrame, out_dir: Path, kind: str) 
             "rho_full_set_TV_worst",
         ]:
             lines.append(f"  {key} = {_fmt(float(metrics[key]))}")
-        lines.append("  Full-set TV-RV remains vacuous by Proposition 3.3.")
+        lines.append("  Full-set TV-RV remains vacuous by Proposition 3.6.")
 
     (out_dir / "run_summary.txt").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
