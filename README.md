@@ -2,6 +2,13 @@
 
 This repository contains the Python code used to reproduce the numerical population study in Chapter 4 of the bachelor thesis
 
+## Thesis
+
+**Conformal Prediction Under Distribution Shift: Linking DRIG and Robust Validation**  
+Bachelor's Thesis, ETH Zurich, 2026 — Grade: 6.0/6.0
+
+[Read the full thesis (PDF)](thesis/bachelor_thesis.pdf)
+
 **Conformal Prediction Under Distribution Shift: Linking DRIG and Robust Validation**.
 
 No empirical data are used. The code implements deterministic population calculations for the fixed-B Gaussian SCM settings studied in the thesis.
