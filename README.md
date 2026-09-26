@@ -5,7 +5,7 @@ This repository contains the Python code used to reproduce the numerical populat
 ## Thesis
 
 **Conformal Prediction Under Distribution Shift: Linking DRIG and Robust Validation**  
-Bachelor's Thesis, ETH Zurich, 2026 — Grade: 6.0/6.0
+Bachelor's Thesis, ETH Zurich, 2026
 
 [Read the full thesis (PDF)](thesis/bachelor_thesis.pdf)
 
